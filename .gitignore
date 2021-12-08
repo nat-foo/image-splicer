@@ -1,3 +1,17 @@
+# Input images
+/assets/body/*
+!/assets/body/.gitkeep
+/assets/face/*
+!/assets/face/.gitkeep
+/assets/head/*
+!/assets/head/.gitkeep
+
+# Output images
+/assets/output.png
+
+# System files
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
